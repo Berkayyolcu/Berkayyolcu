@@ -15,3 +15,4 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 
+![0_C-cPP9D2MIyeexAT](https://user-images.githubusercontent.com/56292568/197643039-2505dc91-62d7-4275-a36a-2764595235f6.gif)
