@@ -1,8 +1,10 @@
 
 <h1>Merhaba 👋 Ben Berkay Yolcu</h1>
 
-👨🏻‍💻 Software Developer</br>
+👨🏻‍💻 Software Developer </br>
+💻 Computer Programmer </br>
 📌 Ankara
+
 
 
 
