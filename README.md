@@ -12,10 +12,3 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer </br>
 📌 Ankara
 
-
-
-
-
-![ınstagram](https://user-images.githubusercontent.com/56292568/197625809-464be711-b7b8-40e3-ac68-339de0b2a018.png)
-
-<a href="https://www.instagram.com/yazilimyolcusu0/"></a>
