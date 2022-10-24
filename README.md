@@ -12,8 +12,9 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer </br>
 📌 Ankara
 
-https://www.linkedin.com/in/berkay-yolcu-2958741a2/
 
 
 
-https://user-images.githubusercontent.com/56292568/197625513-0f8e3579-47f7-4d58-9685-1327d4d7d73a.png)
+
+![ınstagram](https://user-images.githubusercontent.com/56292568/197625809-464be711-b7b8-40e3-ac68-339de0b2a018.png)
+
