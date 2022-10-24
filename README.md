@@ -14,5 +14,5 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 
 
 
-![mail](https://user-images.githubusercontent.com/56292568/197639469-f5a97da7-adfc-4f31-9445-c604d1a7f172.png)
+<img width="100" height="50" >![mail](https://user-images.githubusercontent.com/56292568/197639469-f5a97da7-adfc-4f31-9445-c604d1a7f172.png)</img>
 
