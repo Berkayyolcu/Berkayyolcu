@@ -1,3 +1,3 @@
 
-<h3>Merhaba 👋 Ben Berkay Yolcu</h3>
+<h1>Merhaba 👋 Ben Berkay Yolcu</h1>
 
