@@ -11,7 +11,7 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer </br>
 📌 Ankara
 
-
+https://www.linkedin.com/in/berkay-yolcu-2958741a2/
 
 
 
