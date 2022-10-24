@@ -12,4 +12,4 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer </br>
 📌 Ankara
 
-![alt text]([https://raw.githubusercontent.com/my-org/assets/master/folder/logo.png](https://www.instagram.com/yazilimyolcusu0/))
+
