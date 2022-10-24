@@ -12,3 +12,4 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer </br>
 📌 Ankara
 
+![alt text](http://url/to/img.png)
