@@ -13,6 +13,5 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 📌 Ankara
 
 
-
-![mail](https://user-images.githubusercontent.com/56292568/197639469-f5a97da7-adfc-4f31-9445-c604d1a7f172.png)
+Bana mail ile ulasmak istersen ✉ berkayyolcu99@gmail.com
 
