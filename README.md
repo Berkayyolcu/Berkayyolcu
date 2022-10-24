@@ -8,7 +8,7 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 
 
 👨🏻‍💻 Software Developer  </br>
-💻 Computer Programmer </br>                          
+💻 Computer Programmer                       
 📌 Ankara </br>
 
 
