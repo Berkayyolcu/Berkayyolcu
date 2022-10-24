@@ -13,5 +13,5 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 📌 Ankara
 
 
-Bana mail ile ulasmak istersen ✉ berkayyolcu99@gmail.com
+Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
