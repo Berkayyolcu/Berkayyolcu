@@ -25,7 +25,7 @@ Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 </a>
 
 <a href="https://twitter.com/berkayyolcu0" >
-<img src="https://user-images.githubusercontent.com/56292568/197902688-af14a907-a73f-4dcd-8fad-f289b10d2c3c.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/56292568/197902688-af14a907-a73f-4dcd-8fad-f289b10d2c3c.png" width="100"/>
 </a>
 
 </p>
