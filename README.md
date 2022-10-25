@@ -15,12 +15,19 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
- </a>
+  
+<a href="https://z-p15.www.instagram.com/berkay_yolcu/">
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
+  
+<a href="https://www.linkedin.com/in/berkay-yolcu-2958741a2/">
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
 
-<a href="https://www.instagram.com/berkay_yolcu/"width="200" >![linkedin](https://user-images.githubusercontent.com/56292568/197900384-48fb9432-185b-482c-9907-8bd74f0ea6db.png)</a>
+<a href="https://twitter.com/berkayyolcu0" >
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
 
-<a href="https://www.instagram.com/berkay_yolcu/">![Twitter](https://user-images.githubusercontent.com/56292568/197900607-ec994a32-b180-42f8-9852-974f043eba4b.png)</a>
 </p>
 
 
