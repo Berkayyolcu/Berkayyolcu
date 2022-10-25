@@ -15,6 +15,6 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 
-<a href="https://www.instagram.com/yazilimyolcusu0/">![ınstagram](https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png)</a>
+<a href="https://www.instagram.com/yazilimyolcusu0/" style="width:100px">![ınstagram](https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png)</a>
 
 
