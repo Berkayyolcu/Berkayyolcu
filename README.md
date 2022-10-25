@@ -16,7 +16,17 @@ Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 <p align="center">
   
+<a href="https://z-p15.www.instagram.com/berkay_yolcu/">
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
+  
+<a href="https://www.linkedin.com/in/berkay-yolcu-2958741a2/">
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
 
+<a href="https://twitter.com/berkayyolcu0" >
+<img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="200"/>
+</a>
 
 </p>
 
