@@ -18,7 +18,7 @@ https://profile-summary-for-github.com/user/berkayyolcu
 Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 
-<h5>Sosyal Medya Hesaplarım</h5>
+<h3>Sosyal Medya Hesaplarım</h3>
 
 
 <p align="center">
