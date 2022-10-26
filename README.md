@@ -34,5 +34,6 @@ Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 </p>
 
-![](https://komarev.com/ghpvc/?berkayyolcu=your-github-berkay&label=PROFILE+VIEWS)
+
+
 
