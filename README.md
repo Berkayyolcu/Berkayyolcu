@@ -4,12 +4,19 @@
 web sitesini olusturarak burada edindiğim bilgileri ve yaptığım projelerimide paylasıyorum </p>
 
 
+
+
 Kodluyorum, Öğreniyorum, Yazıyorum
+
+
 
 
 👨🏻‍💻 Software Developer  </br>
 💻 Computer Programmer                       
 📌 Ankara </br>
+
+
+
 
 
 Profil Özetim
