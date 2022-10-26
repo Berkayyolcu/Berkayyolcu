@@ -1,4 +1,4 @@
-<h1 align="center" >Merhaba 👋 Ben Berkay Yolcu</h1>
+<h1 align="center">Merhaba 👋 Ben Berkay Yolcu</h1>
 
 <p>Lisede Bilişim Teknolojileri bölümünü okudum daha sonrasında Üniversitede Bilgisayar Programcılığı Bölümü'nden Mezun oldum Her zaman kendimi geliştirmeye ve yenilemeye çalışıyorum. sürekli yeni bilgiler edinmeye çalışıyorum, projeler geliştirerek kendime yetkinlikler katmaya çalışıyorum. http://www.berkayyolcu.com/ 
 web sitesini olusturarak burada edindiğim bilgileri ve yaptığım projelerimide paylasıyorum </p>
@@ -18,8 +18,8 @@ https://profile-summary-for-github.com/user/berkayyolcu
 Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 
-<h3>Sosyal Medya Hesaplarım</h3>
-<hr>
+<h3 align="center">Sosyal Medya Hesaplarım</h3>
+<hr border="1">
 
 <p align="center">
   
