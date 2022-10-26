@@ -19,7 +19,7 @@ Bana mail ile ulaşmak istersen ✉ berkayyolcu99@gmail.com
 
 
 <h3>Sosyal Medya Hesaplarım</h3>
-
+<hr>
 
 <p align="center">
   
