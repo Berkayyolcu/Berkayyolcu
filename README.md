@@ -10,7 +10,7 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 📌 Ankara </br>
 
 📊👨🏽‍💻 Profil Özetim : https://profile-summary-for-github.com/user/berkayyolcu </br>
-Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
+✉ Bana mail ile ulaşmak istersen : berkayyolcu99@gmail.com
 
 
 <p align="center">
