@@ -9,7 +9,7 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 💻 Computer Programmer                       
 📌 Ankara </br>
 
-📊👨🏽‍💻 Profil Özetim : https://profile-summary-for-github.com/user/berkayyolcu
+📊👨🏽‍💻 Profil Özetim : https://profile-summary-for-github.com/user/berkayyolcu </br>
 Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 
 
