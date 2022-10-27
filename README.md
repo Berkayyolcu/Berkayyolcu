@@ -33,3 +33,4 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
