@@ -18,7 +18,6 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <a href="https://z-p15.www.instagram.com/berkay_yolcu/">
 <img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="100"/>
 </a>
-
 <a href="https://www.linkedin.com/in/berkay-yolcu-2958741a2/">
 <img src="https://user-images.githubusercontent.com/56292568/197902657-04048d2b-ebea-45d1-b9a3-896c06d28089.png" style="margin-left:-100px"  width="100"/>
 </a>
@@ -33,7 +32,7 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
 </p>
 
