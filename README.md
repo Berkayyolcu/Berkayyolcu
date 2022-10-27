@@ -32,8 +32,9 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
-
+</p>
 
 
