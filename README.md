@@ -36,4 +36,4 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Berkayyolcu&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Berkayyolcu&currStreakNum=merko&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
