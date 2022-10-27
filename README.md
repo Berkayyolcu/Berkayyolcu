@@ -15,6 +15,15 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 
 
 <p align="center">
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://z-p15.www.instagram.com/berkay_yolcu/">
 <img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="100"/>
 </a>
@@ -25,15 +34,6 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <a href="https://twitter.com/berkayyolcu0" >
 <img src="https://user-images.githubusercontent.com/56292568/197902688-af14a907-a73f-4dcd-8fad-f289b10d2c3c.png" width="50"/>
 </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
 </p>
 
 <p align="center">
