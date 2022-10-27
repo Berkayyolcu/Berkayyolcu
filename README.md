@@ -32,5 +32,5 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Berkayyolcu&repo=github-readme-stats)](https://github.com/Berkayyolcu/Berkayyolcu/edit/main/README.md))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&layout=compact)](https://github.com/Berkayyolcu)
 
