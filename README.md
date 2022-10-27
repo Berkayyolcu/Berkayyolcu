@@ -37,5 +37,5 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </p>
 
 
-<img src="https://streak-stats.demolab.com/?user=Berkayyolcu&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+<img src="https://streak-stats.demolab.com/?user=Berkayyolcu&currStreakNum=2FD3EB&fire=pinktheme=onedark&sideLabels=F00&date_format=[Y.]n.j"/>
 
