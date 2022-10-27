@@ -34,6 +34,5 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 
 
 ![Berkay Yolcu GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical)
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=radical)](https://github.com/Berkayyolcu)
-</p>
