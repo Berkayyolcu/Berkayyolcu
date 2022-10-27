@@ -37,4 +37,4 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </p>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=highcontrast"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=highcontrast"/>
