@@ -33,7 +33,7 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark(https://github.com/Berkayyolcu)" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
 
 
 
