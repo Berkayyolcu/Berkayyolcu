@@ -13,7 +13,7 @@ Kodluyorum, Öğreniyorum, Yazıyorum
 Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 
 
-<hr border="5">
+
 <p align="center">
 <a href="https://z-p15.www.instagram.com/berkay_yolcu/">
 <img src="https://user-images.githubusercontent.com/56292568/197898421-56294c35-7fac-465d-93d8-bdbf4e2eea62.png" width="100"/>
@@ -27,7 +27,7 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 <img src="https://user-images.githubusercontent.com/56292568/197902688-af14a907-a73f-4dcd-8fad-f289b10d2c3c.png" width="50"/>
 </a>
 </p>
-<hr border="1">
+
 
 
 
