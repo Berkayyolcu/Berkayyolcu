@@ -34,3 +34,5 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 
 
 ![Berkay Yolcu GitHub stats](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Berkayyolcu)](https://github.com/Berkayyolcu?tab=repositories)
