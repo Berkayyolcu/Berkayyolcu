@@ -28,7 +28,8 @@ Bana mail ile ulaşmak istersen : ✉ berkayyolcu99@gmail.com
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt="" align="center"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
+</p>
 
 
