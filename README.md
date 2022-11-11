@@ -1,16 +1,16 @@
-<h1 align="center">Merhaba 👋 Ben Berkay Yolcu</h1>
+<h1 align="center">Hello 👋 I'm Berkay Yolcu</h1>
 
-<p>Lisede Bilişim Teknolojileri bölümünü okudum daha sonrasında Üniversitede Bilgisayar Programcılığı Bölümü'nden Mezun oldum Her zaman kendimi geliştirmeye ve yenilemeye çalışıyorum. sürekli yeni bilgiler edinmeye çalışıyorum, projeler geliştirerek kendime yetkinlikler katmaya çalışıyorum. http://www.berkayyolcu.com/ 
-web sitesini olusturarak burada edindiğim bilgileri ve yaptığım projelerimide paylasıyorum </p>
+<p>I studied Information Technologies in high school, and then graduated from the Department of Computer Programming at the University. I always try to improve and renew myself. I am constantly trying to acquire new information, I am trying to add competencies to myself by developing projects. http://www.berkayyolcu.com/
+By creating the website, I share the information I have gained here and the projects I have done.</p>
 
-Kodluyorum, Öğreniyorum, Yazıyorum
+I Code, I Learn, I Write
 
 👨🏻‍💻 Software Developer  </br>
 💻 Computer Programmer                       
 📌 Ankara </br>
 
-📊👨🏽‍💻 Profil Özetim : https://profile-summary-for-github.com/user/berkayyolcu </br>
-✉ Bana mail ile ulaşmak istersen : berkayyolcu99@gmail.com
+📊👨🏽‍💻 My Profile Summary : https://profile-summary-for-github.com/user/berkayyolcu </br>
+✉ Email me if you want : berkayyolcu99@gmail.com
 
 
 <p align="center">
