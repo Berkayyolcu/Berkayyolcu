@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋 I'm Berkay Yolcu</h1>
 
-<p>I studied Information Technologies in high school, and then graduated from the Department of Computer Programming at the University. I always try to improve and renew myself. I am constantly trying to acquire new information, I am trying to add competencies to myself by developing projects. http://www.berkayyolcu.com/
-By creating the website, I share the information I have gained here and the projects I have done.</p>
+<p>I always try to improve and renew myself. I am trying to gain new knowledge, I am trying to add competencies to myself by developing projects.
+I believe I can consistently achieve better results this way.
+I struggle to be better.</p>
 
 I Code, I Learn, I Write
 
