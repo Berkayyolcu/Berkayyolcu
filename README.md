@@ -1,7 +1,7 @@
 <h1>Hello 👋 I'm Berkay Yolcu</h1>
 
 ![software](https://github.com/Berkayyolcu/Berkayyolcu/assets/56292568/103d1d0e-daea-4458-8712-62730cbd40cf)
-<img width="150" src="https://github.com/Berkayyolcu/Berkayyolcu/assets/56292568/103d1d0e-daea-4458-8712-62730cbd40cf">
+<img width="500" src="https://github.com/Berkayyolcu/Berkayyolcu/assets/56292568/103d1d0e-daea-4458-8712-62730cbd40cf"><br>
 I always try to improve and renew myself. I am trying to gain new knowledge, I am trying to add competencies to myself by developing projects. I believe I can consistently achieve better results this way. I struggle to be better.
 
 I Code, I Learn, I Write
