@@ -36,7 +36,8 @@ I Code, I Learn, I Write
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Berkayyolcu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 
