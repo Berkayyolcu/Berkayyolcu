@@ -28,8 +28,8 @@ I Code, I Learn, I Write
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=dark" height="180em" />
 
