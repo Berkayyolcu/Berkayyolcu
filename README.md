@@ -34,7 +34,7 @@ I Code, I Learn, I Write
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=2077" height="180em" />
 
 # 📈Activity Graph:
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=dark"/>
 
 ---
 
