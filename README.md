@@ -32,6 +32,8 @@ I Code, I Learn, I Write
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=synthwave-84"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Berkayyolcu&icon=0&color=0)](https://visitcount.itsvg.in)
 
