@@ -15,7 +15,7 @@ I Code, I Learn, I Write
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkay_yolcu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkay-yolcu-2958741a2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/berkay-yolcu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/berkayyolcu0) 
 
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue" alt=""/>
 </p>
 
