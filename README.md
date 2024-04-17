@@ -30,14 +30,5 @@ I Code, I Learn, I Write
 ---
 [![](https://visitcount.itsvg.in/api?id=Berkayyolcu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Berkayyolcu&show_icons=true&theme=radical" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&show_icons=true&theme=dark" alt=""/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Berkayyolcu&currStreakNum=2FD3EB&fire=pink&theme=cobalt&sideLabels=F00&date_format=[Y.]n.j"/>
-</p>
-
 
 
