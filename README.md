@@ -2,7 +2,9 @@
 <img width="400" src="https://github.com/Berkayyolcu/Berkayyolcu/assets/56292568/103d1d0e-daea-4458-8712-62730cbd40cf"><br>
 I always try to improve and renew myself. I am trying to gain new knowledge, I am trying to add competencies to myself by developing projects. I believe I can consistently achieve better results this way. I struggle to be better.
 
-I Code, I Learn, I Write
+I Code,
+I Learn,
+I Write
 
 👨🏻‍💻 Software Developer  </br>
 💻 Computer Programmer                       
@@ -36,7 +38,6 @@ I Code, I Learn, I Write
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=dark&hide_border=true)
@@ -45,13 +46,4 @@ I Code, I Learn, I Write
 
 # 📈Activity Graph:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
-
 ---
-
-
-
-
-
-
-
-
