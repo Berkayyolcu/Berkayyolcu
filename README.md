@@ -1,5 +1,7 @@
 <h1>Hello 👋 I'm Berkay Yolcu</h1>
 
+![software](https://github.com/Berkayyolcu/Berkayyolcu/assets/56292568/103d1d0e-daea-4458-8712-62730cbd40cf)
+
 I always try to improve and renew myself. I am trying to gain new knowledge, I am trying to add competencies to myself by developing projects. I believe I can consistently achieve better results this way. I struggle to be better.
 
 I Code, I Learn, I Write
@@ -9,6 +11,7 @@ I Code, I Learn, I Write
 📌 Ankara </br>
 
 📊👨🏽‍💻 My Profile Summary : https://profile-summary-for-github.com/user/berkayyolcu </br>
+
 ✉ Email me if you want : berkayyolcu99@gmail.com
 
 
