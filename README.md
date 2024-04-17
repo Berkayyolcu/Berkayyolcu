@@ -33,7 +33,7 @@ I Code, I Learn, I Write
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 # 📈Activity Graph:
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-85"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
 
 ---
 
