@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Berkay Yolcu</h1>
+<h1>Hello 👋 I'm Berkay Yolcu</h1>
 
 I always try to improve and renew myself. I am trying to gain new knowledge, I am trying to add competencies to myself by developing projects. I believe I can consistently achieve better results this way. I struggle to be better.
 
