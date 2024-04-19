@@ -46,6 +46,7 @@ I Write
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark&hide_border=true)
 
 # 📈Activity Graph:
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
+
 
 ---
