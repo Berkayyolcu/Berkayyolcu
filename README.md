@@ -49,5 +49,4 @@ I Write
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
 
 ---
-
 ![](https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue) 
