@@ -42,10 +42,10 @@ I Write
 ![](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Berkayyolcu&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=dark" height="180em" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&layout=pie&theme=dark&hide_border=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=dark)
+
 
 # 📈Activity Graph:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
