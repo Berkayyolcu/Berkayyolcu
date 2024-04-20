@@ -20,7 +20,7 @@ I Write
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/berkayyolcu0) 
 <p><img src="https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue"/></p>
 
-![]([https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white](https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue)) 
+![](https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
