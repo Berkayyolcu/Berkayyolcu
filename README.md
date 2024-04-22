@@ -19,7 +19,6 @@ I Write
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20702899/berkay-yolcu) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/berkayyolcu0) 
 
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +38,6 @@ I Write
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
@@ -47,12 +45,8 @@ I Write
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berkayyolcu&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkayyolcu&layout=pie&theme=dark&hide_border=true)
 
-
-
 # 📈Activity Graph:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 ![](https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue) 
