@@ -52,5 +52,7 @@ I Write
 # 📈Activity Graph:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkayyolcu&theme=synthwave-84"/>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ---
 ![](https://komarev.com/ghpvc/?username=Berkayyolcu&style=flat-square&color=blue) 
