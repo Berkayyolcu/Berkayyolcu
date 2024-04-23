@@ -7,7 +7,7 @@ I Code,
 I Learn,
 I Write
 
-👨🏻‍💻 Software Developer  </br>
+👨🏻‍💻 Software Developer 
 💻 Computer Programmer                       
 📌 Ankara </br>
 
