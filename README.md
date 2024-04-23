@@ -15,7 +15,7 @@ I Write
 ✉ Email me if you want : berkayyolcu99@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkay_yolcu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkay-yolcu-2958741a2) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20702899/berkay-yolcu) 
