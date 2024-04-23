@@ -8,7 +8,7 @@ I Learn,
 I Write
 
 👨🏻‍💻 Software Developer <br>
-💻 Computer Programmer <br>                   
+💻 Computer Programmer                  
 📌 Ankara <br>
 
 📊👨🏽‍💻 My Profile Summary : https://profile-summary-for-github.com/user/berkayyolcu </br>
