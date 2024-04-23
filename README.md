@@ -7,9 +7,9 @@ I Code,
 I Learn,
 I Write
 
-👨🏻‍💻 Software Developer 
-💻 Computer Programmer                       
-📌 Ankara </br>
+👨🏻‍💻 Software Developer <br>
+💻 Computer Programmer <br>                   
+📌 Ankara <br>
 
 📊👨🏽‍💻 My Profile Summary : https://profile-summary-for-github.com/user/berkayyolcu </br>
 ✉ Email me if you want : berkayyolcu99@gmail.com
