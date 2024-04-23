@@ -13,6 +13,8 @@ I Write
 📊👨🏽‍💻 My Profile Summary : https://profile-summary-for-github.com/user/berkayyolcu </br>
 ✉ Email me if you want : berkayyolcu99@gmail.com
 
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkay_yolcu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkay-yolcu-2958741a2) 
