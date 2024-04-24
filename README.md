@@ -22,6 +22,8 @@ I Write
 [![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Github](https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white)](https://github.com/Berkayyolcu)
 [![Snapchat](https://img.shields.io/badge/Snapchat-yellow.svg?logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/berkay_yolcu0?share_id=EJ6hCwVlo-Y&locale=tr-TR)
+[![Discord](https://img.shields.io/badge/Discord-blue.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me)
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
